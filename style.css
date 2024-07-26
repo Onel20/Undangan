@@ -104,6 +104,7 @@ nav#bar div.navigation{
 
 nav#bar a{
     text-decoration: none;
+    color: black;
 }
 
 div#page2{
@@ -124,6 +125,7 @@ div#page2 div.photo img{
     width: 15vw;
     height: 30vh;
     border-radius: 50%;
+    image-size: 100% 100%;
 }
 
 div#page2 h1{
@@ -169,6 +171,7 @@ div#page3 div.photo img {
     width: 15vw;
     height: 30vh;
     border-radius: 50%;
+    image-size: 100% 100%;
 }
 
 div#page3 h1{
