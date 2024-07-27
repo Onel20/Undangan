@@ -29,7 +29,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const switchDark = () => {
         document.querySelector("body").classList.toggle('dark');
-        document.querySelector('.icon').classList.toggle('dark');
     }
 
     let darkInfo = JSON.parse(localStorage.getItem('dark'));
